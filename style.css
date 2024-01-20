@@ -1,0 +1,371 @@
+html{
+    background-color: black;
+}
+
+.gallery img{
+        width: 30VW;
+        height: 30VH;
+        padding: 1%
+ }
+
+
+/*thor*/
+
+.thor-stat {
+    text-align: center;
+    min-width:  10VW ;
+}
+
+
+.thor-intel {
+    background-color: gray;
+    text-align: center;
+    width: 55VW;
+}
+
+.thor-strength {
+    background-color: gray;
+    text-align: center;
+    width: 100VW;
+}
+
+.thor-speed {
+    background-color: gray;
+    text-align: center;
+    width: 80VW;
+}
+
+.thor-durability {
+    background-color: gray;
+    text-align: center;
+    width: 80VW;
+}
+
+.thor-power {
+    background-color: gray;
+    text-align: center;
+    width: 100VW;
+}
+
+.thor-combat {
+    background-color: gray;
+    text-align: center;
+    width: 65VW;
+}
+
+
+.thor-header {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+    background-color: red;
+}
+
+/*ironman*/
+
+.iron-stat {
+    text-align: center;
+    min-width:  10VW ;
+}
+
+
+.iron-intel {
+    background-color: crimson;
+    text-align: center;
+    width: 100VW;
+}
+
+.iron-strength {
+    background-color: crimson;
+    text-align: center;
+    width: 80VW;
+}
+
+.iron-speed {
+    background-color: crimson;
+    text-align: center;
+    width: 100VW;
+}
+
+.iron-durability {
+    background-color: crimson;
+    text-align: center;
+    width: 75VW;
+}
+
+.iron-power {
+    background-color: crimson;
+    text-align: center;
+    width: 75VW;
+}
+
+.iron-combat {
+    background-color: crimson;
+    text-align: center;
+    width: 75VW;
+}
+
+.iron-header {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+    background-color: goldenrod;
+}
+
+/*hulk*/
+
+.hulk-stat {
+    text-align: center;
+    min-width:  10VW ;
+}
+
+
+.hulk-intel {
+    background-color: darkseagreen;
+    text-align: center;
+    width: 100VW;
+}
+
+.hulk-strength {
+    background-color: darkseagreen;
+    text-align: center;
+    width: 100VW;
+}
+
+.hulk-speed {
+    background-color: darkseagreen;
+    text-align: center;
+    width: 55VW;
+}
+
+.hulk-durability {
+    background-color: darkseagreen;
+    text-align: center;
+    width: 100VW;
+}
+
+.hulk-power {
+    background-color: darkseagreen;
+    text-align: center;
+    width: 100VW;
+}
+
+.hulk-combat {
+    background-color: darkseagreen;
+    text-align: center;
+    width: 55VW;
+}
+
+.hulk-header {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+    background-color: green;
+}
+
+/*hawk-eye*/
+
+.hawk-stat {
+    text-align: center;
+    min-width:  10VW ;
+}
+
+
+.hawk-intel {
+    background-color: purple;
+    text-align: center;
+    width: 55VW;
+}
+
+.hawk-strength {
+    background-color: purple;
+    text-align: center;
+    width: 65VW;
+}
+
+.hawk-speed {
+    background-color: purple;
+    text-align: center;
+    width: 75VW;
+}
+
+.hawk-durability {
+    background-color: purple;
+    text-align: center;
+    width: 65VW;
+}
+
+.hawk-power {
+    background-color: purple;
+    text-align: center;
+    width: 65VW;
+}
+
+.hawk-combat {
+    background-color: purple;
+    text-align: center;
+    width: 80VW;
+}
+
+
+.hawk-header {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+    background-color: mediumblue;
+}
+
+/*captain-america*/
+
+.captain-stat {
+    text-align: center;
+    min-width:  10VW ;
+}
+
+
+.captain-intel {
+    background-color: midnightblue;
+    text-align: center;
+    width: 65VW;
+}
+
+.captain-strength {
+    background-color: midnightblue;
+    text-align: center;
+    width: 100VW;
+}
+
+.captain-speed {
+    background-color: midnightblue;
+    text-align: center;
+    width: 100VW;
+}
+
+.captain-durability {
+    background-color: midnightblue;
+    text-align: center;
+    width: 80VW;
+}
+
+.captain-power {
+    background-color: midnightblue;
+    text-align: center;
+    width: 80VW;
+}
+
+.captain-combat {
+    background-color: midnightblue;
+    text-align: center;
+    width: 100VW;
+}
+
+.captain-header {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+    background-color: silver;
+}
+
+/*black-widow*/
+
+.widow-stat {
+    text-align: center;
+    min-width:  10VW ;
+}
+
+
+.widow-intel {
+    background-color: brown;
+    text-align: center;
+    width: 65VW;
+}
+
+.widow-strength {
+    background-color: brown;
+    text-align: center;
+    width: 65VW;
+}
+
+.widow-speed {
+    background-color: brown;
+    text-align: center;
+    width: 75VW;
+}
+
+.widow-durability {
+    background-color: brown;
+    text-align: center;
+    width: 75VW;
+}
+
+.widow-power {
+    background-color: brown;
+    text-align: center;
+    width: 65VW;
+}
+
+.widow-combat {
+    background-color: brown;
+    text-align: center;
+    width: 100VW;
+}
+
+.widow-header {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+    background-color: darkslategrey;
+}
+
+h1, h4{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-family: Impact, fantasy;
+    text-align: center;
+    font-size: 25px;
+    color:white;
+    font-style: italic;
+}
+
+p{
+    font-family: Helvetica;
+    color: white;
+}
+
+#menu{
+      width:100VW;
+      height:40px;
+      background-color: black;
+      padding-top: 12px;
+}
+
+#menu a{
+      color:#ffffff;
+      font-family: sans-serif;
+      font-size: 18px;
+      text-decoration:none;      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu a:hover{
+       color: crimson;
+       text-decoration-color: crimson;
+}
+
+.contact {
+        border: 1px solid red;
+        padding: 1%;
+        min-width: 100VW;
+        text-decoration: none;
+        color: red;
+}
